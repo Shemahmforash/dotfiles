@@ -110,6 +110,9 @@ set nu
 "Backspace key Deletes 4 spaces at a time
 set smarttab
 
+" make backspace work like most other apps
+set backspace=2
+
 set autoindent
 set smartindent
 
